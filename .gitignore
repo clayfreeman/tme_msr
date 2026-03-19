@@ -1,0 +1,4 @@
+/EFI
+/NvVars
+tme_msr.o
+tme_msr.so
